@@ -98,7 +98,7 @@ chmod -R 755 /path/to/giml/images /path/to/giml/videos-gjw
 ## Contact
 
 Developer: Nguyễn Đăng Minh Phúc
-Profile: https://ganjingworld.com/@ndmphuc/4
+Profile: https://ganjingworld.com/@ndmphuc/
 
 ---
 Updated: 2025-11-12
