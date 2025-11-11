@@ -1,0 +1,8 @@
+node_modules/
+images/
+videos-gjw/
+giml.log
+giml.log.html
+.env
+.DS_Store
+package-lock.json
