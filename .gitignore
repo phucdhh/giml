@@ -6,3 +6,4 @@ giml.log.html
 .env
 .DS_Store
 package-lock.json
+.vscode/
