@@ -1,0 +1,80 @@
+[2025-11-09 03:41:18] Received user link: https://www.ganjingworld.com/s/1rNZeyrWXg
+[2025-11-09 03:41:18] Extracted video ID: 1rNZeyrWXg, Direct link: https://www.ganjingworld.com/s/1rNZeyrWXg
+[2025-11-09 03:41:19] Successfully fetched video content, HTTP code: 200
+[2025-11-09 03:41:19] Detected MIME type: text/html
+[2025-11-09 03:41:19] Error: The downloaded content is not a video. MIME type: text/html
+[2025-11-09 03:41:19] HTML Preview: <!DOCTYPE html><html class="sy-scrollbar" lang="en-US"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no"/><link rel="shortcut icon" href="/icons/favicon.ico"/><link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png"/><link rel="icon" type="image/png" 
+[2025-11-09 03:41:19] Error: Could not find video URL in HTML content.
+[2025-11-09 03:41:22] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 03:41:22] Extracted video ID: 1ho0ac0rf527H6RKSPQKjfa7R1e31c, Direct link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 03:41:22] Successfully fetched video content, HTTP code: 200
+[2025-11-09 03:41:22] Detected MIME type: text/html
+[2025-11-09 03:41:22] Error: The downloaded content is not a video. MIME type: text/html
+[2025-11-09 03:41:22] HTML Preview: <!DOCTYPE html><html class="sy-scrollbar" lang="en-US"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no"/><link rel="shortcut icon" href="/icons/favicon.ico"/><link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png"/><link rel="icon" type="image/png" 
+[2025-11-09 03:41:22] Error: Could not find video URL in HTML content.
+[2025-11-09 11:57:26] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 11:57:26] Extracted video ID: 1ho0ac0rf527H6RKSPQKjfa7R1e31c, Direct link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 11:57:26] Successfully fetched video content, HTTP code: 200
+[2025-11-09 11:57:26] Detected MIME type: text/html
+[2025-11-09 11:57:26] Error: The downloaded content is not a video. MIME type: text/html
+[2025-11-09 11:57:26] HTML Preview: <!DOCTYPE html><html class="sy-scrollbar" lang="en-US"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no"/><link rel="shortcut icon" href="/icons/favicon.ico"/><link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png"/><link rel="icon" type="image/png" 
+[2025-11-09 11:57:26] Error: Could not find video URL in HTML content.
+[2025-11-09 12:00:35] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 12:00:35] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 12:00:35] Puppeteer output: Error: Could not find Chrome (ver. 142.0.7444.61). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: /usr/share/httpd/.cache/puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+
+[2025-11-09 12:03:43] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 12:03:43] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 12:03:43] Puppeteer output: Error: Missing X server to start the headful browser. Either set headless to true or use xvfb-run to run your Puppeteer script.
+
+[2025-11-09 12:05:43] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 12:05:43] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 12:06:01] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 12:06:01] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 12:08:12] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 12:08:18] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 12:19:39] Puppeteer output: Navigating to: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+Error: Navigation timeout of 180000 ms exceeded
+
+[2025-11-09 12:19:39] Puppeteer output: Error: Timed out after 30000 ms while waiting for the WS endpoint URL to appear in stdout!
+
+[2025-11-09 12:22:46] Puppeteer output: Navigating to: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+Error: Navigation timeout of 180000 ms exceeded
+
+[2025-11-09 13:17:33] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 13:17:33] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 13:17:56] Puppeteer output: Navigating to: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+Navigation completed or timed out.
+https://video1-ap-japan.cloudokyo.cloud/video/v12/43/cb/b2/43cbb253-6bc4-4611-92e6-7b66e97e88a3/master.m3u8
+
+[2025-11-09 13:21:12] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 13:21:12] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 13:21:53] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 13:21:53] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 13:22:35] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 13:22:35] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 13:22:37] Puppeteer output: Error: Timed out after waiting 30000ms
+
+[2025-11-09 13:24:05] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 13:24:06] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 13:25:34] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 13:25:39] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 13:31:29] Puppeteer output: Navigating to: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+Error: Navigation timeout of 180000 ms exceeded
+
+[2025-11-09 13:31:29] Puppeteer output: Navigating to: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+Error: Navigation timeout of 180000 ms exceeded
+
+[2025-11-09 15:01:43] Puppeteer output: Error: Timed out after waiting 30000ms
+
+[2025-11-09 15:01:44] Puppeteer output: Error: Timed out after waiting 30000ms
+
+[2025-11-09 15:11:01] Received user link: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+[2025-11-09 15:11:01] Running Puppeteer: node /home/phucndm/truyenthong.edu.vn/public_html/apps/giml/fetch_video_url.js 'https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c' 2>&1
+[2025-11-09 15:11:21] Puppeteer output: Navigating to: https://www.ganjingworld.com/video/1ho0ac0rf527H6RKSPQKjfa7R1e31c
+Navigation completed or timed out.
+https://video1-ap-japan.cloudokyo.cloud/video/v12/43/cb/b2/43cbb253-6bc4-4611-92e6-7b66e97e88a3/master.m3u8
+
