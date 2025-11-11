@@ -98,7 +98,7 @@ chmod -R 755 /path/to/giml/images /path/to/giml/videos-gjw
 ## Liên hệ
 
 Người phát triển: Nguyễn Đăng Minh Phúc
-Trang liên hệ: https://ganjingworld.com/@ndmphuc/4
+Trang liên hệ: https://ganjingworld.com/@ndmphuc/
 
 ---
 Cập nhật: 2025-11-12
